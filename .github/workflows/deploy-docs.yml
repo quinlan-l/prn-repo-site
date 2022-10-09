@@ -35,10 +35,9 @@ jobs:
         run: pnpm docs:build
 
       - name: Deploy
-        uses: s0/git-publish-subdir-action@develop
-        env:
-          REPO: git@github.com:quinlan-l/prn-repo-web.git
-          BRANCH: gh-pages
-          FOLDER: dist
-          SSH_PRIVATE_KEY: ${{ secrets.DEPLOY_PRIVATE_KEY }}
-          
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          repository-name: quinlan-l/prn-repo-web
+          token: ${{ secrets.PRN_REPO_WEB_SECRET }}
+          branch: gh-pages
+          folder: dist
