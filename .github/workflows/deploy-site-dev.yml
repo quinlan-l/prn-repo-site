@@ -40,3 +40,4 @@ jobs:
           token: ${{ secrets.WF_TOKEN }}
           branch: gh-pages
           folder: dist
+          
