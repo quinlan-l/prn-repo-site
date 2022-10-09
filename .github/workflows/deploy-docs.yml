@@ -1,4 +1,4 @@
-name: 部署文档
+name: 部署站点
 
 on:
   push:
@@ -38,6 +38,6 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           repository-name: quinlan-l/prn-repo-web
-          token: ${{ secrets.WK_TOKEN }}
+          token: ${{ secrets.WF_TOKEN }}
           branch: gh-pages
           folder: dist
