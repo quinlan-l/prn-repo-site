@@ -1,5 +1,4 @@
 import { hopeTheme } from "vuepress-theme-hope";
-import { photoSwipePlugin } from "vuepress-plugin-photo-swipe";
 import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
@@ -11,6 +10,7 @@ export default hopeTheme({
   hostname: "https://prn.1369.ml",
 
   repo: "quinlan-l/prn-repo-site",
+  repoDisplay: false,
 
   author: {
     name: 'quinlan-l',
@@ -45,7 +45,7 @@ export default hopeTheme({
   breadcrumb: true,
   breadcrumbIcon: true,
   titleIcon: true,
-  pageInfo: ["Tag"],
+  pageInfo: ["Category", "Tag"],
 
   // 源文件
   editLink: true,
@@ -63,7 +63,7 @@ export default hopeTheme({
   
       // 源文件
       metaLocales: {
-        editLink: "在 GitHub 上编辑此页",
+        editLink: "编辑此页",
       },
 
       // 页脚
@@ -73,8 +73,9 @@ export default hopeTheme({
       
       // 博客选项
       blog: {
-        description: "无业游民",
+        name: "",
         timeline: "众里寻他千百度",
+        articleInfo: ["Date", "Category", "Tag"]
       },
     },
   },
@@ -87,7 +88,7 @@ export default hopeTheme({
       imageSize: true,
     },
     photoSwipe: {
-      delay: 600
+      delay: 500
     },
   },
 });

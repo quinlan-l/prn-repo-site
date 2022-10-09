@@ -1,31 +1,30 @@
 ---
-shortTitle: Blacked.19.12.16
 title: Blacked.19.12.16
 date: 2019-12-16
 category:
   - VixenGroup
   - Blacked
-  - Cory.Chase
+  - Cory Chase
 tag:
   - BBC
 ---
 
-## 信息
+## 阅文
 
-番号 | [Blacked](/category/Blacked/).21.09.13
-:-: | :-: 
-女优 | [Cory Chase](/category/Cory.Chase/)
-片商 | [Blacked](/category/Blacked/)
-标题 | Just Me
-导演 | Laurent Sky
-时长 | 37:32
-发行日期 | 2019-12-16
+**Just Me**
+
+* 番号: Blacked.21.09.13
+* 女优: Cory Chase
+* 片商: Blacked
+* 导演: Laurent Sky
+* 时长: 37:32
+* 发行: 2019-12-16
 
 Lonely and frustrated trophy wife Cory can’t stand that her new husband is always away on business. Cory’s opinion of her stepdaughter is even lower, but she finds a way to bend a complicated situation to her will. Pressure has been fucking somebody’s daughter… he’s about to be fucking the guy’s wife, too.
 
-## 套图
+## 览图
 
-高清套图打包下载：[主线(密码: vixen)](//url87.ctfile.com/f/37076987-690468348-9fe21b?p=blacked) · [备线](https://pixhost.to/gallery/fzK4h/download)
+高清套图打包下载：[主线(密码: vixen)](//url87.ctfile.com/f/37076987-690468348-9fe21b?p=vixen) / [备线](//pixhost.to/gallery/fzK4h/download)
 
 ![](//t78.pixhost.to/thumbs/62/311053727_01.jpg) 
 ![](//t78.pixhost.to/thumbs/62/311053726_02.jpg) 
@@ -105,4 +104,4 @@ Lonely and frustrated trophy wife Cory can’t stand that her new husband is alw
 
 ## 观影
 
-<iframe width="800" height="600" src="https://dood.wf/e/v43tk0zdxekw" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
+<iframe width="800" height="600" src="//dood.wf/e/267gr9493xn9lzi00kqpb6uj12xiurib" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>

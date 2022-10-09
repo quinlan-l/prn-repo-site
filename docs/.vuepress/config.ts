@@ -1,4 +1,5 @@
 import { defineUserConfig } from "vuepress";
+import { searchPlugin } from "@vuepress/plugin-search";
 import theme from "./theme.js";
 
 export default defineUserConfig({
@@ -21,4 +22,10 @@ export default defineUserConfig({
 
   // 预拉取页面所需的所有文件
   shouldPrefetch: false,
+
+  plugins: [
+    searchPlugin({
+      // 你的选项
+    }),
+  ],
 });
