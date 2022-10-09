@@ -1,0 +1,9 @@
+// place your custom styles here
+em {
+    color: var(--theme-color, red);
+}
+
+u {
+    text-decoration: none;
+    border-bottom: solid 1px var(--theme-color, red);
+}
