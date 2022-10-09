@@ -38,6 +38,6 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           repository-name: quinlan-l/prn-repo-web
-          token: ${{ secrets.PRN_REPO_WEB_SECRET }}
+          token: ${{ secrets.GH_WORKFLOWS_TOKEN }}
           branch: gh-pages
           folder: dist
