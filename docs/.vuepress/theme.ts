@@ -73,9 +73,9 @@ export default hopeTheme({
       
       // 博客选项
       blog: {
-        name: "",
+        name: "Hi~",
         timeline: "众里寻他千百度",
-        articleInfo: ["Date", "Category", "Tag"]
+        articleInfo: ["Category", "Tag"]
       },
     },
   },
