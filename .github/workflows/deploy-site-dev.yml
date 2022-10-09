@@ -3,7 +3,6 @@ name: 部署站点
 on:
   push:
     branches:
-      # 确保这是你正在使用的分支名称
       - dev
 
 jobs:
@@ -29,7 +28,7 @@ jobs:
           node-version: 16
           cache: pnpm
 
-      - name: Build Docs
+      - name: Build Docsg
         env:
           NODE_OPTIONS: --max_old_space_size=8192
         run: pnpm docs:build
