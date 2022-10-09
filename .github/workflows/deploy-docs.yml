@@ -35,8 +35,8 @@ jobs:
         run: pnpm docs:build
 
       - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: s0/git-publish-subdir-action@develop
         with:
-          repo: git@github.com:quinlan-l/prn-repo-web.git
-          branch: gh-pages
-          folder: dist
+          REPO: git@github.com:quinlan-l/prn-repo-web.git
+          BRANCH: gh-pages
+          FOLDER: dist
