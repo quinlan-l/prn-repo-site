@@ -40,3 +40,4 @@ jobs:
           REPO: git@github.com:quinlan-l/prn-repo-web.git
           BRANCH: gh-pages
           FOLDER: dist
+          SSH_PRIVATE_KEY: ${{ secrets.DEPLOY_PRIVATE_KEY }}
