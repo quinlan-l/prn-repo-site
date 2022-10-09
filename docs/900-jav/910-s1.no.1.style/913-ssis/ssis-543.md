@@ -19,7 +19,7 @@ tag:
 
 * 番号: SSIS-543
 * 女优: 小岛南 · 小島みなみ
-* 片商: S1 NO.1 STYLE
+* 片商: S1 NO.1 Style
 * 导演: キョウセイ
 * 时长: 120 mins
 * 发行: 2022-10-11
@@ -44,6 +44,6 @@ tag:
 
 ## 观影
 
-<iframe width="800" height="600" src="//dood.wf/e/apgrggh3xqwnwgb0n08pm9vy18ethtf3" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
+<iframe width="740" height="560" src="//dood.wf/e/apgrggh3xqwnwgb0n08pm9vy18ethtf3" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
 
 <iframe width="246" height="169" src="//dood.wf/e/t2n0cybuzix7stqklk2d5q18eqqzaq9o" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
