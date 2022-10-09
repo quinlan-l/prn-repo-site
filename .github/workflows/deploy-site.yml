@@ -1,4 +1,4 @@
-name: 部署站点
+name: 部署生产环境站点
 
 on:
   push:

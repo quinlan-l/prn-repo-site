@@ -1,4 +1,4 @@
-name: 部署站点
+name: 部署测试环境站点
 
 on:
   push:
@@ -36,7 +36,7 @@ jobs:
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          repository-name: quinlan-l/prn-repo-web
+          repository-name: quinlan-l/prn-repo-dev
           token: ${{ secrets.WF_TOKEN }}
           branch: gh-pages
           folder: dist
