@@ -7,7 +7,7 @@ icon: home
 
 heroImage: false
 heroText: false
-tagline: <h1>“ 饮食男女，<br/>人之大欲存焉。”</h1>
+tagline: “ 饮食男女，人之大欲存焉。”
 bgImage: /girls.svg
 heroFullScreen: true
 
