@@ -2,13 +2,12 @@
 home: true
 layout: Blog
 
-shortTitle: 家
 title: 主页
 icon: home
 
-heroImage: /logo.svg
-heroText: 饮食男女
+heroImage: false
+heroText: false
 bgImage: /girls.svg
 heroFullScreen: true
-tagline: 饮食男女，人之大欲存焉
+tagline: <h1 style="color:#FF9900;line-height:1.6em"> “ 饮食男女，<br/>人之大欲存焉。” </h1>
 ---
