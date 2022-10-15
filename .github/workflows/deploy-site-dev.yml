@@ -31,7 +31,7 @@ jobs:
       - name: Build Docsg
         env:
           NODE_OPTIONS: --max_old_space_size=8192
-        run: pnpm docs:build
+        run: pnpm build
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
